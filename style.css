@@ -1,3 +1,9 @@
+body {
+    text-align: center;
+    background-color: linear-gradient(to bottom right, white, lightgoldenrodyellow, yellow, darkorange, red, pink, wheat, white);
+    background-repeat: repeat;
+}
+
 .line {
     height: 6px;
     background-color: #000000;
@@ -5,15 +11,4 @@
     margin: 8px auto;
 }
 
-body {
-    text-align: center;
-    background-color: linear-gradient(to bottom right, white, lightgoldenrodyellow, yellow, darkorange, red, pink, wheat, white);
-    background-repeat: repeat;
-}
 
-button {
-    border: 0px;
-    border-radius: 50;
-    background-color: aqua;
-    color: #000000;
-}
