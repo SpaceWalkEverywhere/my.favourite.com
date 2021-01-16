@@ -8,6 +8,7 @@
 body {
     text-align: center;
     background-color: linear-gradient(to bottom right, white, lightgoldenrodyellow, yellow, darkorange, red, pink, wheat, white);
+    background-repeat: repeat;
 }
 
 button {
