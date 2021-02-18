@@ -1,14 +1,6 @@
-body {
+center {
     text-align: center;
-    background-color: linear-gradient(to bottom right, white, lightgoldenrodyellow, yellow, darkorange, red, pink, wheat, white);
-    background-repeat: repeat;
+    align-content: center;
+    background-image: linear-gradient(to bottom right,purple,indigo,blue,lightblue,green,yellow,orange,red,orange,yellow,green,lightblue,blue,indigo,purple);
+    background-repeat: no-repeat;
 }
-
-.line {
-    height: 6px;
-    background-color: #000000;
-    width: 70px;
-    margin: 8px auto;
-}
-
-
