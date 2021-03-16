@@ -1,6 +1,6 @@
 center {
     text-align: center;
     align-content: center;
-    background-image: linear-gradient(to bottom right,purple,indigo,blue,lightblue,green,yellow,orange,red,orange,yellow,green,lightblue,blue,indigo,purple);
+    background-color: linear-gradient(to bottom right,purple,indigo,blue,   lightblue,green,yellow,orange,red,orange,yellow,green,lightblue,blue,indigo,purple);
     background-repeat: no-repeat;
 }
